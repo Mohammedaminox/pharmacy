@@ -1,0 +1,15 @@
+{
+    "name": "youcode/pharmacy",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\Pharmacy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed Amine",
+            "email": "aminebenmade1999@gmial.com"
+        }
+    ],
+    "require": {}
+}
