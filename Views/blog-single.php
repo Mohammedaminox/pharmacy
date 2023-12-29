@@ -13,34 +13,34 @@
         <title>Mediplus - Free Medical and Doctor Directory HTML Template.</title>
 		
 		<!-- Favicon -->
-        <link rel="icon" href="assets/img/favicon.png">
+        <link rel="icon" href="../public/assets/img/favicon.png">
 		
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
 		<!-- Bootstrap CSS -->
-		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<link rel="stylesheet" href="../public/assets/css/bootstrap.min.css">
 		<!-- Nice Select CSS -->
-		<link rel="stylesheet" href="assets/css/nice-select.css">
+		<link rel="stylesheet" href="../public/assets/css/nice-select.css">
 		<!-- Font Awesome CSS -->
-        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="../public/assets/css/font-awesome.min.css">
 		<!-- icofont CSS -->
-        <link rel="stylesheet" href="assets/css/icofont.css">
+        <link rel="stylesheet" href="../public/assets/css/icofont.css">
 		<!-- Slicknav -->
-		<link rel="stylesheet" href="assets/css/slicknav.min.css">
+		<link rel="stylesheet" href="../public/assets/css/slicknav.min.css">
 		<!-- Owl Carousel CSS -->
-        <link rel="stylesheet" href="assets/css/owl-carousel.css">
+        <link rel="stylesheet" href="../public/assets/css/owl-carousel.css">
 		<!-- Datepicker CSS -->
-		<link rel="stylesheet" href="assets/css/datepicker.css">
+		<link rel="stylesheet" href="../public/assets/css/datepicker.css">
 		<!-- Animate CSS -->
-        <link rel="stylesheet" href="assets/css/animate.min.css">
+        <link rel="stylesheet" href="../public/assets/css/animate.min.css">
 		<!-- Magnific Popup CSS -->
-        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="../public/assets/css/magnific-popup.css">
 		
 		<!-- Medipro CSS -->
-        <link rel="stylesheet" href="assets/css/normalize.css">
+        <link rel="stylesheet" href="../public/assets/css/normalize.css">
         <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="../public/assets/css/responsive.css">
 		
     </head>
     <body>
@@ -113,7 +113,7 @@
 							<div class="col-lg-3 col-md-3 col-12">
 								<!-- Start Logo -->
 								<div class="logo">
-									<a href="index.html"><img src="assets/img/logo.png" alt="#"></a>
+									<a href="index.html"><img src="../public/assets/img/logo.png" alt="#"></a>
 								</div>
 								<!-- End Logo -->
 								<!-- Mobile Nav -->
@@ -190,14 +190,14 @@
 								<div class="single-main">
 									<!-- News Head -->
 									<div class="news-head">
-										<img src="assets/img/blog1.jpg" alt="#">
+										<img src="../public/assets/img/blog1.jpg" alt="#">
 									</div>
 									<!-- News Title -->
 									<h1 class="news-title"><a href="news-single.html">More than 80 clinical trials launch to test of the coronavirus .</a></h1>
 									<!-- Meta -->
 									<div class="meta">
 										<div class="meta-left">
-											<span class="author"><a href="#"><img src="assets/img/author1.jpg" alt="#">Naimur Rahman</a></span>
+											<span class="author"><a href="#"><img src="../public/assets/img/author1.jpg" alt="#">Naimur Rahman</a></span>
 											<span class="date"><i class="fa fa-clock-o"></i>03 Feb 2019</span>
 										</div>
 										<div class="meta-right">
@@ -213,12 +213,12 @@
 											<div class="row">
 												<div class="col-lg-6 col-md-6 col-12">
 													<div class="single-image">
-														<img src="assets/img/blog2.jpg" alt="#">
+														<img src="../public/assets/img/blog2.jpg" alt="#">
 													</div>
 												</div>
 												<div class="col-lg-6 col-md-6 col-12">
 													<div class="single-image">
-														<img src="assets/img/blog3.jpg" alt="#">
+														<img src="../public/assets/img/blog3.jpg" alt="#">
 													</div>
 												</div>
 											</div>
@@ -256,7 +256,7 @@
 										<div class="single-comments">
 											<div class="main">
 												<div class="head">
-													<img src="assets/img/author1.jpg" alt="#"/>
+													<img src="../public/assets/img/author1.jpg" alt="#"/>
 												</div>
 												<div class="body">
 													<h4>Afsana Mimi</h4>
@@ -271,7 +271,7 @@
 										<div class="single-comments left">
 											<div class="main">
 												<div class="head">
-													<img src="assets/img/author2.jpg" alt="#"/>
+													<img src="../public/assets/img/author2.jpg" alt="#"/>
 												</div>
 												<div class="body">
 													<h4>Naimur Rahman</h4>
@@ -286,7 +286,7 @@
 										<div class="single-comments">
 											<div class="main">
 												<div class="head">
-													<img src="assets/img/author3.jpg" alt="#"/>
+													<img src="../public/assets/img/author3.jpg" alt="#"/>
 												</div>
 												<div class="body">
 													<h4>Suriya Molharta</h4>
@@ -370,7 +370,7 @@
 								<!-- Single Post -->
 								<div class="single-post">
 									<div class="image">
-										<img src="assets/img/blog-sidebar1.jpg" alt="#">
+										<img src="../public/assets/img/blog-sidebar1.jpg" alt="#">
 									</div>
 									<div class="content">
 										<h5><a href="#">We have annnocuced our new product.</a></h5>
@@ -384,7 +384,7 @@
 								<!-- Single Post -->
 								<div class="single-post">
 									<div class="image">
-										<img src="assets/img/blog-sidebar2.jpg" alt="#">
+										<img src="../public/assets/img/blog-sidebar2.jpg" alt="#">
 									</div>
 									<div class="content">
 										<h5><a href="#">Top five way for solving teeth problems.</a></h5>
@@ -398,7 +398,7 @@
 								<!-- Single Post -->
 								<div class="single-post">
 									<div class="image">
-										<img src="assets/img/blog-sidebar3.jpg" alt="#">
+										<img src="../public/assets/img/blog-sidebar3.jpg" alt="#">
 									</div>
 									<div class="content">
 										<h5><a href="#">We provide highly business soliutions.</a></h5>
@@ -523,44 +523,44 @@
 		<!--/ End Footer Area -->
 		
 		<!-- jquery Min JS -->
-        <script src="assets/js/jquery.min.js"></script>
+        <script src="../public/assets/js/jquery.min.js"></script>
 		<!-- jquery Migrate JS -->
-		<script src="assets/js/jquery-migrate-3.0.0.js"></script>
+		<script src="../public/assets/js/jquery-migrate-3.0.0.js"></script>
 		<!-- jquery Ui JS -->
-		<script src="assets/js/jquery-ui.min.js"></script>
+		<script src="../public/assets/js/jquery-ui.min.js"></script>
 		<!-- Easing JS -->
-        <script src="assets/js/easing.js"></script>
+        <script src="../public/assets/js/easing.js"></script>
 		<!-- Color JS -->
-		<script src="assets/js/colors.js"></script>
+		<script src="../public/assets/js/colors.js"></script>
 		<!-- Popper JS -->
-		<script src="assets/js/popper.min.js"></script>
+		<script src="../public/assets/js/popper.min.js"></script>
 		<!-- Bootstrap Datepicker JS -->
-		<script src="assets/js/bootstrap-datepicker.js"></script>
+		<script src="../public/assets/js/bootstrap-datepicker.js"></script>
 		<!-- Jquery Nav JS -->
-        <script src="assets/js/jquery.nav.js"></script>
+        <script src="../public/assets/js/jquery.nav.js"></script>
 		<!-- Slicknav JS -->
-		<script src="assets/js/slicknav.min.js"></script>
+		<script src="../public/assets/js/slicknav.min.js"></script>
 		<!-- ScrollUp JS -->
-        <script src="assets/js/jquery.scrollUp.min.js"></script>
+        <script src="../public/assets/js/jquery.scrollUp.min.js"></script>
 		<!-- Niceselect JS -->
-		<script src="assets/js/niceselect.js"></script>
+		<script src="../public/assets/js/niceselect.js"></script>
 		<!-- Tilt Jquery JS -->
-		<script src="assets/js/tilt.jquery.min.js"></script>
+		<script src="../public/assets/js/tilt.jquery.min.js"></script>
 		<!-- Owl Carousel JS -->
-        <script src="assets/js/owl-carousel.js"></script>
+        <script src="../public/assets/js/owl-carousel.js"></script>
 		<!-- counterup JS -->
-		<script src="assets/js/jquery.counterup.min.js"></script>
+		<script src="../public/assets/js/jquery.counterup.min.js"></script>
 		<!-- Steller JS -->
-		<script src="assets/js/steller.js"></script>
+		<script src="../public/assets/js/steller.js"></script>
 		<!-- Wow JS -->
-		<script src="assets/js/wow.min.js"></script>
+		<script src="../public/assets/js/wow.min.js"></script>
 		<!-- Magnific Popup JS -->
-		<script src="assets/js/jquery.magnific-popup.min.js"></script>
+		<script src="../public/assets/js/jquery.magnific-popup.min.js"></script>
 		<!-- Counter Up CDN JS -->
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
 		<!-- Bootstrap JS -->
-		<script src="assets/js/bootstrap.min.js"></script>
+		<script src="../public/assets/js/bootstrap.min.js"></script>
 		<!-- Main JS -->
-		<script src="assets/js/main.js"></script>
+		<script src="../public/assets/js/main.js"></script>
     </body>
 </html>
