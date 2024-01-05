@@ -1,15 +1,17 @@
 {
-    "name": "youcode/pharmacy",
+    "name": "youcode/folder-finale",
     "autoload": {
         "psr-4": {
-            "Youcode\\Pharmacy\\": "src/"
+            "App\\": "app/"
         }
     },
     "authors": [
         {
-            "name": "Mohammed Amine",
-            "email": "aminebenmade1999@gmial.com"
+            "name": "EL-Nabil-Hakimi",
+            "email": "nabilelhakimi2023@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
 }
